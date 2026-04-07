@@ -1,4 +1,4 @@
-vless://bb3275cb-6410-0021-8fe1-7e5a07814e2b@fl.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=8c2d9e1f&type=tcp#AppleVPN-FI
+v2raytun://import/https://raw.githubusercontent.com/rinazfarkhutdinov2014-ai/apple-vpn-sub/main/sub.txtvless://bb3275cb-6410-0021-8fe1-7e5a07814e2b@fl.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=8c2d9e1f&type=tcp#AppleVPN-FI
 
 vless://bb3275cb-6410-4592-8fe1-7e5a07814e2b@dd.perecm.ru:43439?encryption=none&security=reality&sni=apple.com&fp=safari&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=25130ce3b96356d7&type=grpc&serviceName=ws#AppleVPN-NL
 
